@@ -40,6 +40,7 @@ Github托管的是以前Jekyll版本的源码，现在博客用Hexo重新搭建
 * http://maoshu.cc
 * http://x-carto.com/
 * http://flypeom.site
+* http://guoxiangzhao.com
 
 ## 2016-02-25更新
 
